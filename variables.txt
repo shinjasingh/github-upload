@@ -1,0 +1,11 @@
+DataTypes
+
+int-4 bytes
+float-4 bytes
+double-8 bytes
+char- 2 bytes
+
+int:
+short int- 2 bytes
+long int- 8 bytes
+byte- 1 bytes
